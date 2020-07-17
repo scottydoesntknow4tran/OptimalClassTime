@@ -1,7 +1,7 @@
 # OptimalClassTime
 Program that sorts through text files containing available class times and finds the times that match up for everyone
 
-The idea behind this program is to find the optimal meeting time for a group of people to meet. The user can dicide how many people need to attend and this program can find the optimal meeting times for the group.
+The idea behind this program is to find the optimal meeting time for a group of people to meet. The user can decide how many people need to attend and this program can find the optimal meeting times for the group.
 This program asks the user to input the files and it reads them using multiple linked lists to store the name of the person (name of the file), the day of the week, and the time of the day
 After storing the data for all the files the user inputs the minimum number of matches they want for a meeting time
 The program then prints the days and times that have at least the number of matches and the names of those people and the meeting times with more matches
